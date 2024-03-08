@@ -1,0 +1,14 @@
+C:\Users\ELMZ\Desktop\C# ippfm\Ejercicio 1 (conjuntos de numeros)\bin\Debug\net6.0\Ejercicio 1 (conjuntos de numeros).exe
+C:\Users\ELMZ\Desktop\C# ippfm\Ejercicio 1 (conjuntos de numeros)\bin\Debug\net6.0\Ejercicio 1 (conjuntos de numeros).deps.json
+C:\Users\ELMZ\Desktop\C# ippfm\Ejercicio 1 (conjuntos de numeros)\bin\Debug\net6.0\Ejercicio 1 (conjuntos de numeros).runtimeconfig.json
+C:\Users\ELMZ\Desktop\C# ippfm\Ejercicio 1 (conjuntos de numeros)\bin\Debug\net6.0\Ejercicio 1 (conjuntos de numeros).dll
+C:\Users\ELMZ\Desktop\C# ippfm\Ejercicio 1 (conjuntos de numeros)\bin\Debug\net6.0\Ejercicio 1 (conjuntos de numeros).pdb
+C:\Users\ELMZ\Desktop\C# ippfm\Ejercicio 1 (conjuntos de numeros)\obj\Debug\net6.0\Ejercicio 1 (conjuntos de numeros).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELMZ\Desktop\C# ippfm\Ejercicio 1 (conjuntos de numeros)\obj\Debug\net6.0\Ejercicio 1 (conjuntos de numeros).AssemblyInfoInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Ejercicio 1 (conjuntos de numeros)\obj\Debug\net6.0\Ejercicio 1 (conjuntos de numeros).AssemblyInfo.cs
+C:\Users\ELMZ\Desktop\C# ippfm\Ejercicio 1 (conjuntos de numeros)\obj\Debug\net6.0\Ejercicio 1 (conjuntos de numeros).csproj.CoreCompileInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Ejercicio 1 (conjuntos de numeros)\obj\Debug\net6.0\Ejercicio 1 (conjuntos de numeros).dll
+C:\Users\ELMZ\Desktop\C# ippfm\Ejercicio 1 (conjuntos de numeros)\obj\Debug\net6.0\refint\Ejercicio 1 (conjuntos de numeros).dll
+C:\Users\ELMZ\Desktop\C# ippfm\Ejercicio 1 (conjuntos de numeros)\obj\Debug\net6.0\Ejercicio 1 (conjuntos de numeros).pdb
+C:\Users\ELMZ\Desktop\C# ippfm\Ejercicio 1 (conjuntos de numeros)\obj\Debug\net6.0\Ejercicio 1 (conjuntos de numeros).genruntimeconfig.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Ejercicio 1 (conjuntos de numeros)\obj\Debug\net6.0\ref\Ejercicio 1 (conjuntos de numeros).dll
